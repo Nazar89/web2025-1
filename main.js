@@ -1,3 +1,3 @@
-const githubUsername = "Nazar899"; // Замініть на ваше ім'я користувача GitHub
+const githubUsername = "Nazar899"; 
 
 console.log(`Hello, ${githubUsername}!`);
